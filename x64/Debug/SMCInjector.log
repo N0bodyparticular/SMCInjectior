@@ -1,0 +1,6 @@
+﻿  SMCInjector.cpp
+f:\code\smcinjector\smcinjector\smcinjector.cpp(36): warning C4473: 'printf' : not enough arguments passed for format string
+  f:\code\smcinjector\smcinjector\smcinjector.cpp(36): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\code\smcinjector\smcinjector\smcinjector.cpp(36): note: the missing variadic argument 2 is required by format string '%s'
+f:\code\smcinjector\smcinjector\smcinjector.cpp(44): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  SMCInjector.vcxproj -> F:\code\SMCInjector\x64\Debug\SMCInjector.exe
